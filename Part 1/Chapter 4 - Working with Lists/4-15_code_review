@@ -1,0 +1,8 @@
+Some principles to stick to:
+
+- Use four spaces for an indentation level, if you use tab, configure your text
+  editor/IDE to insert 4 spaces instead
+- Use less than 80 characters on each line and configure your editor to show
+  this (unless using such short lines makes your code unclear!)
+- Don't excessively pad your programs with blank lines. Use them to demarcate
+  logical areas of code
