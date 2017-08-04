@@ -1,0 +1,7 @@
+Refer to PEP8 for the correct way to style conditional tests
+
+if age < 4:
+
+is better than:
+
+if age<4:
