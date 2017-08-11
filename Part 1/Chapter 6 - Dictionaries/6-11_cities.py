@@ -24,6 +24,6 @@ cities = {
 
 for city, city_info in cities.items():
     print("\nCity: " + city.title())
-    print("\tLocation: " + city_info['country'])
+    print("\tLocation: " + city_info['country'].title())
     print("\tPopulation: " + str(city_info['population']))
     print("\tFun Fact: " + city_info['fact'])
