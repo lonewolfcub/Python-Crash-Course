@@ -1,10 +1,10 @@
 # A dictionary of similar objects
 
 favourite_languages = {
-    'jen': ['python', 'ruby'],
-    'sarah': ['c'],
-    'edward': ['ruby', 'go]',
-    'phil': ['python', 'haskell']
+    'jen': 'python',
+    'sarah': 'c',
+    'edward': 'ruby',
+    'phil': 'python',
 }
 
 print("Sarah's favourite language is " +
