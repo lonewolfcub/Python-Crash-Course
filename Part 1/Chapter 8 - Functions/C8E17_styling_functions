@@ -1,0 +1,34 @@
+Refer to PEP8 for guidance on how to style functions:
+
+https://www.python.org/dev/peps/pep-0008/
+
+ - Functions should have descriptive names
+
+ - Function names should be comprised of lowercase letters and underscores
+
+ - Module (and my extension python file names) should use these conventions too
+
+ - Functions should have a docstring which explains what the function does
+
+ - If you specify a default value for a parameter, don't uses spaces on either
+   side of the equals sign:
+
+        def function_name(parameter_0, parameter_1='default value'
+
+ - Apply the same convention to keyword arguements in function calls:
+
+        function_name(value_0, paramenter_1='value)
+
+ - Stick to 79 characters per line, if your function definition is longer,
+   format the input like this:
+
+        def function_name(
+                parameter_0, parameter_1, parameter_2,
+                parameter_3, parameter_4, parameter_5):
+            function body...
+
+ - If your program has more than one function, seperate them with two blank
+   lines for readability
+
+ - import statements should be written at the beginning of the file, execept
+   where files have comments to explain the function of the program
