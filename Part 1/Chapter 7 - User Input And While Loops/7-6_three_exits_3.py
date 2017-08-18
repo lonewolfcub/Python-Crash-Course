@@ -4,4 +4,7 @@ prompt += "\n "
 while True:
     topping = input(prompt)
 
-    print("I'll add " + topping + " to your pizza!")
+    if topping == "quit":
+        break
+    else:
+        print("I'll add " + topping + " to your pizza!")
