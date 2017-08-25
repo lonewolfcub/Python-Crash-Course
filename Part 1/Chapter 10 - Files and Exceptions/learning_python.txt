@@ -1,0 +1,10 @@
+In Python you can assign keywords to variables
+In Python you can store sequences of letters and numbers in strings
+In Python you can store numbers as integers
+In Python you can document your code using comments
+In Python you can store sequences of objects in a list
+In Python you can perform conditional tests using the if statement
+In Python you can keep key and value pairs in a dictionary
+In Python you can request user input using the input function
+In Python you can keep blocks of code in objects called functions
+In Python you can model real world situations in objects called classes
