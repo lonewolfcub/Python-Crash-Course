@@ -2,7 +2,7 @@ import unittest
 from name_function_3 import get_formatted_name
 
 class NamesTestCase(unittest.TestCase):
-    """Tests for name_function.py"""
+    """Tests for name_function_3.py"""
 
     def test_first_last_name(self):
         """Do names like 'Janis Joplin' work?"""
