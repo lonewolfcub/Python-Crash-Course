@@ -30,7 +30,7 @@ title = "Daily rainfall - 2014\nSan Francisco, CA"
 plt.title(title, fontsize=20)
 plt.xlabel('', fontsize=16)
 fig.autofmt_xdate()
-plt.ylabel("Rainfall (Inch)", fontsize=16)
+plt.ylabel("Rainfall (mm)", fontsize=16)
 plt.tick_params(axis='both', which='major', labelsize=16)
 
 plt.show()
